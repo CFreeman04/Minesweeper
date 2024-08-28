@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.csproj",
+      "projectUniqueName": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\GitHub\\Minesweeper\\Minesweeper.csproj",
       "projectName": "Minesweeper",
-      "projectPath": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.csproj",
+      "projectPath": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\GitHub\\Minesweeper\\Minesweeper.csproj",
       "packagesPath": "C:\\Users\\freew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\GitHub\\Minesweeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\freew\\AppData\\Roaming\\NuGet\\NuGet.Config",
