@@ -1,0 +1,5 @@
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.exe
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.dll
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.deps.json
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.pdb

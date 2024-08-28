@@ -1,0 +1,17 @@
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Debug\net8.0-windows\Minesweeper.exe
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Debug\net8.0-windows\Minesweeper.deps.json
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Debug\net8.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Debug\net8.0-windows\Minesweeper.dll
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\bin\Debug\net8.0-windows\Minesweeper.pdb
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Minesweeper.resources
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.Properties.Resources.resources
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.csproj.GenerateResource.cache
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.AssemblyInfo.cs
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.dll
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\refint\Minesweeper.dll
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.pdb
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\Minesweeper.genruntimeconfig.cache
+C:\Users\freew\OneDrive\OD Documents\School\MSSA - Cloud Application Development\Assignments\Minesweeper\WinFormsApp1\obj\Debug\net8.0-windows\ref\Minesweeper.dll

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|c:\\users\\freew\\onedrive\\od documents\\school\\mssa - cloud application development\\assignments\\minesweeper\\winformsapp1\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|solutionrelative:minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|c:\\users\\freew\\onedrive\\od documents\\school\\mssa - cloud application development\\assignments\\minesweeper\\winformsapp1\\minesweeper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|solutionrelative:minesweeper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|c:\\users\\freew\\onedrive\\od documents\\school\\mssa - cloud application development\\assignments\\minesweeper\\winformsapp1\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|c:\\users\\freew\\onedrive\\od documents\\school\\mssa - cloud application development\\assignments\\minesweeper\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|c:\\users\\freew\\onedrive\\od documents\\school\\mssa - cloud application development\\assignments\\minesweeper\\winformsapp1\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B0A0C6A-18CD-4988-8165-1879907E0EC1}|WinFormsApp1.csproj|solutionrelative:minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-28T18:40:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:40:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Minesweeper.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper.cs",
+              "ToolTip": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.cs",
+              "RelativeToolTip": "Minesweeper.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAswA8BAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:38:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minesweeper.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.Designer.cs",
+              "RelativeDocumentMoniker": "Minesweeper.Designer.cs",
+              "ToolTip": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.Designer.cs",
+              "RelativeToolTip": "Minesweeper.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:38:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Minesweeper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.cs",
+              "RelativeDocumentMoniker": "Minesweeper.cs",
+              "ToolTip": "C:\\Users\\freew\\OneDrive\\OD Documents\\School\\MSSA - Cloud Application Development\\Assignments\\Minesweeper\\WinFormsApp1\\Minesweeper.cs [Design]",
+              "RelativeToolTip": "Minesweeper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:36:43.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
