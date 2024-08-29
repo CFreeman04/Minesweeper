@@ -1,6 +1,6 @@
 # Minesweeper
 
-This is the classic Minesweeper game impleted in Windows Form C#
+This is the classic Minesweeper game implemented in Windows Form C#
 
 ## Screens
 ![Initial](Screens/Initial.jpg)
